@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&family=Fraunces:wght@500;700&family=Kumbh+Sans:wght@400;700&family=Montserrat:wght@500;700&family=Noto+Sans+Georgian:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+   font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h1{
+    font-family: 'Noto Sans Georgian';
+font-size: 25px;
+font-weight: 700;
+margin-left: 253px;
+margin-top: 150px;
+margin-bottom: 14px;
+
+}
+
+h4{
+    font-family: 'Noto Sans Georgian';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 25px;
+margin-bottom: 8px;
+letter-spacing: -0.01em;
+color: #000000;
+
+}
+
+.tarigi p{
+    font-family: 'Noto Sans Georgian';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: -0.01em;
+color: #000000;
+
+}
+
+
+.kompania,
+.shemotavazeba p{
+    font-family: 'Noto Sans Georgian';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 25px;
+font-weight:500;
+letter-spacing: -0.01em;
+color: #000000;
+
+}
+
+.container{
+    display: flex;
+    box-sizing: border-box; 
+    border: 0.5px solid black;
+    margin-left: 253px;
+    margin-right: 153px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    justify-content: space-around;
+    padding-bottom: 41px;
+    padding-top: 15px;
+
+}
+
+.tvali{ background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    padding-left: 45px;
+    padding-right: 47px;
+    
+}
+
+.tanxmoba{
+    background: #6eb4fb;
+    border-radius: 5px;
+	border: none;
+	cursor: pointer;
+     margin-right: 47px; 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+}
+
+
+.uaryofa{
+    background: #000000;
+    border-radius: 5px;
+	border: none;
+	cursor: pointer;
+    margin-right: 47px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
